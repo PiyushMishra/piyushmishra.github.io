@@ -765,21 +765,21 @@
 		
 			#main > section.one
 			{
-				background-color: #81918E;
-				background-image: url('../images/banner.jpg');
+				background-color: black;
+				background-image: url('../images/');
 			}
 
 			#main > section.two
 			{
-				background-color: #f5fafa;
+				background-color: black;
 			}
 		
 			#main > section.three
 			{
-				background-color: #ecf1f1;
+				background-color: black;
 			}
 		
 			#main > section.four
 			{
-				background-color: #e8edec;
+				background-color: black;
 			}
