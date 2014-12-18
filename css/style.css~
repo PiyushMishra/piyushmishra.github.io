@@ -212,8 +212,8 @@
 			
 				.image.avatar48 img
 				{
-					width: 90px;
-					height: 100px;
+					width: 70px;
+					height: 70px;
 				}
 
 			.image.fit
@@ -232,7 +232,7 @@
 			.image.left
 			{
 				float: left;
-				margin: 0 3em 3em 0;
+				margin: 0 2em 2em 0;
 			}
 			
 			.image.centered
