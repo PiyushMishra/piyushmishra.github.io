@@ -89,7 +89,6 @@
 								Piyush Mishra is Software Consultant/Engineer.He is a skilled professional in Scala and Akka and other technologies as well. He has developed many distributed and parallel systems usnig scala and akka during his work. He also share his knowledge from wordpress blog in Scala/Akka community and linked group. He also provides support to akka user group by his knowledge whatever he has build in his career.</h6>
 							</header>
 
-							
 							<footer>
 								<a href="#about" class="button scrolly">Know me</a>
 							</footer>
@@ -103,9 +102,47 @@
 							<header>
 								<h2>About Me</h2>
 							</header>
-
-							<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
 							
+                                               <div class="row">
+								<div class="4u">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/images.jpg" alt="" /></a>
+										<header>
+											<h3>Akka</h3>
+										</header>
+
+									</article>
+								</div>
+<div class="4u">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/scala-400.jpg" alt="" /></a>
+										<header>
+											<h3>Scala</h3>
+										</header>
+
+									</article>
+								</div>
+<div class="4u">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/play.png" alt="" /></a>
+										<header>
+											<h3>Play</h3>
+										</header>
+
+									</article>
+								</div>
+<div class="4u">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/spray.png" alt="" /></a>
+										<header>
+											<h3>Spray</h3>
+										</header>
+
+									</article>
+								</div>
+							</div>
+
+
 							<p>Piyush Mishra is Software Consultant/Engineer.He is a skilled professional in Scala and Akka and other technologies as well. He has developed many distributed and parallel systems usnig scala and akka during his work. He also share his knowledge from wordpress blog in Scala/Akka community and linked group. He also provides support to akka user group by his knowledge whatever he has build in his career.</p>
 
 						</div>
