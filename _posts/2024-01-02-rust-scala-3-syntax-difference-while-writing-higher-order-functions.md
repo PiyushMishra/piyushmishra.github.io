@@ -1,11 +1,8 @@
 
 ---
-```go
 layout: post
 title: 'Syntax difference between Scala 3 and Rust while writing higher order functions.'
 date: 2024-01-02 19:24 +0800
----
-```
 ---
 
 Many of the new languages emerged out with functional programming inspiration from Scala. 
@@ -38,6 +35,12 @@ list.map:
 ```scala
 val list = List(1,2,3)
 list.flatMap(x => 1 to x)
+
+```
+---
+
+---
+```scala
 list.flatMap(1 to _)
 
 //Scala 3 syntax
