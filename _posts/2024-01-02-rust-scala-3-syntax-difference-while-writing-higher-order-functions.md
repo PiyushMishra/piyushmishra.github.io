@@ -15,7 +15,6 @@ and indentation based syntax. Scala 3 support backward compatibility with Scala 
 
 ### map
 
----
 ```scala
 val list = List(1,2,3)
 
@@ -27,26 +26,18 @@ list.map(_ + 1)
 list.map:
     x => x + 1
 ```
----
 
 ### flatMap
----
 ```scala
 val list = List(1,2,3)
 list.flatMap(x => 1 to x)
 
-```
----
-
----
-```scala
 list.flatMap(1 to _)
 
 //Scala 3 syntax
 list.flatMap:
      x => 1 to x
 ```
----
 
 ### filter
 ---
