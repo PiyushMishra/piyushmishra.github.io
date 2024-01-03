@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 'Syntax difference between Scala 3 and Rust while writing higher order functions.'
